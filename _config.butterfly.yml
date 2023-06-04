@@ -53,10 +53,10 @@ copy:
 social:
   # Github: https://github.com/fomalhaut1998 || icon-github || faa-tada
   微信: /assets/QRCode.jpg || icon-weixin || faa-tada
-  QQ: https://res.abeim.cn/api/qq/?qq=1174008660 || icon-QQ || faa-tada
-  B站: https://space.bilibili.com/220757832 || icon-bilibili || faa-tada
-  QQ邮箱: mailto:1174008660@qq.com || icon-youxiang || faa-tada
-  力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
+  QQ: https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/8BDFFF608F1A23D1D40B65C5C625C23E.png || icon-QQ || faa-tada
+  B站:  https://space.bilibili.com/697069642?spm_id_from=333.337.0.0|| icon-bilibili || faa-tada
+  QQ邮箱: mailto:442908218@qq.com || icon-youxiang || faa-tada
+  力扣:  https://leetcode.cn/u/awesome-edisonfhq/|| icon-leetcode || faa-tada
   # 微博: https://weibo.com/u/6473136435 || icon-weibo || faa-tada
   # 知乎: https://www.zhihu.com/people/liang-jia-chao-19 || icon-shejiaotubiao-10 || faa-tada
   # RSS: /atom.xml || icon-RSS || faa-tada
@@ -113,7 +113,7 @@ favicon:
 
 # Avatar (頭像)
 avatar:
-  img: https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp
+  img: https://cdn.staticaly.com/gh/442908218/imageBlog@master/imgs/zhuye.jpg
   effect: false
 
 # Disable all banner image
@@ -224,7 +224,7 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: https://tuchuang.voooe.cn/images/2023/01/04/2.webp
+    - img: https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/F22F23269F8928588D7ECA7339A4B762.png
       link:
       text: 微信
     - img: https://tuchuang.voooe.cn/images/2023/01/04/20f8e49805975b8f8.webp
@@ -447,7 +447,7 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2022
+    since: 2023
   custom_text:
   copyright: false # Copyright of theme and framework
 
@@ -702,10 +702,10 @@ aside:
       enable: true
       icon: # fab fa-github
       text: 前往小窝
-      link: https://github.com/fomalhaut1998
+      link: https://github.com/442908218
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://www.fomal.cc" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">fomal.cc</font></a>&nbsp;|&nbsp;<a href="https://www.fomal.cn" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">fomal.cn</font></a><br>--- 备用域名 ---<br><a href="https://netlify.fomal.cc" title="此线路部署于Netlify" class="anno_content"><font color="#5ea6e5">netlify.fomal.cc</font></a><br><a href="https://cloudflare.fomal.cc" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">cloudflare.fomal.cc</font></a><br>--- 网站安卓APP ---<br>🍧<a href="https://lskypro.acozycotage.net/Fomalhaut/Fomalhaut.apk" title="点这里可以下载网站的安卓APP" class="anno_content"><font color="#5ea6e5">点此下载</font></a>🍧</b></center>
+    content: <center><b>--- 主域名 ---<br><a href="https://www.lijiashuai.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">fomal.cc</font></a>&nbsp;|&nbsp;<a href="https://www.lijiashuai.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">fomal.cn</font></a><br>--- 备用域名 ---<br>🍧</b></center>
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
@@ -750,7 +750,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: false
-  publish_date: 8/9/2022 00:00:00
+  publish_date: 1/6/2023 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
