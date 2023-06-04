@@ -52,7 +52,7 @@ copy:
 #   icon: link || the description
 social:
   # Github: https://github.com/fomalhaut1998 || icon-github || faa-tada
-  微信: /assets/QRCode.jpg || icon-weixin || faa-tada
+  微信:  https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/F22F23269F8928588D7ECA7339A4B762.png|| icon-weixin || faa-tada
   QQ: https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/8BDFFF608F1A23D1D40B65C5C625C23E.png || icon-QQ || faa-tada
   B站:  https://space.bilibili.com/697069642?spm_id_from=333.337.0.0|| icon-bilibili || faa-tada
   QQ邮箱: mailto:442908218@qq.com || icon-youxiang || faa-tada
