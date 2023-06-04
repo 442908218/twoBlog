@@ -1113,14 +1113,13 @@ function changeMouseMode() {
 var now1 = new Date();
 
 function createtime1() {
-  var grt = new Date("08/09/2022 00:00:00"); //此处修改你的建站时间或者网站上线时间
+  var grt = new Date("01/06/2023 00:00:00"); //此处修改你的建站时间或者网站上线时间
   now1.setTime(now1.getTime() + 250);
   var days = (now1 - grt) / 1000 / 60 / 60 / 24;
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到Fomalhaut🥝の小家!`,
-    `Future is now 🍭🍭🍭`,
+    `欢迎来到听雨声の小家!`,
     `
         
 ███████  ██████  ███    ███  █████  ██      ██   ██  █████  ██    ██ ████████ 
@@ -2785,11 +2784,11 @@ var now = new Date();
 function createtime() {
   // 当前时间
   now.setTime(now.getTime() + 1000);
-  var start = new Date("08/01/2022 00:00:00"); // 旅行者1号开始计算的时间
+  var start = new Date("01/06/2023 00:00:00"); // 旅行者1号开始计算的时间
   var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒
   var unit = (dis / 149600000).toFixed(6);  // 天文单位
   // 网站诞生时间
-  var grt = new Date("08/09/2022 00:00:00");
+  var grt = new Date("01/06/2023 00:00:00");
   var days = (now - grt) / 1e3 / 60 / 60 / 24,
     dnum = Math.floor(days),
     hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,
@@ -3403,11 +3402,12 @@ function createWinbox() {
 <h2>四、背景设置</h2>
 <center><button onclick="resetBg()" style="background:var(--theme-color);display:block;width:35%;padding:15px 0;border-radius:30px;color:white;"><i class="fa-solid fa-arrows-rotate"></i>&nbsp;恢复默认背景</button></center>
 
-<h3>1. 二次元</h3>
-{% folding cyan, 查看二次元背景 %}
+<h3>1. 蜘蛛侠</h3>
+{% folding cyan, 查看蜘蛛侠背景 %}
 <div class="bgbox">
-<a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)')"></a>
-
+<a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/7c054fa99bb34a7f8ff6cfa161d62d18.jpg)" class="imgbox" onclick="changeBg('url(https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/7c054fa99bb34a7f8ff6cfa161d62d18.jpg)')"></a>
+<a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/%E8%9C%98%E8%9B%9B%E4%BE%A0_%E9%BB%91%E8%89%B2%E8%83%8C%E6%99%AF_%E7%AE%80%E7%BA%A64k%E5%A3%81%E7%BA%B83840x2160_%E5%BD%BC%E5%B2%B8%E5%9B%BE%E7%BD%91.jpg)" class="imgbox" onclick="changeBg('url(https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/%E8%9C%98%E8%9B%9B%E4%BE%A0_%E9%BB%91%E8%89%B2%E8%83%8C%E6%99%AF_%E7%AE%80%E7%BA%A64k%E5%A3%81%E7%BA%B83840x2160_%E5%BD%BC%E5%B2%B8%E5%9B%BE%E7%BD%91.jpg)')"></a>
+<a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/zhizhu.jpg)" class="imgbox" onclick="changeBg('url(https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/zhizhu.jpg)')"></a>
 </div>
 {% endfolding %}
 
@@ -3416,8 +3416,8 @@ function createWinbox() {
 
 {% folding cyan, 查看风景背景 %}
 <div class="bgbox">
-<a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)')"></a>
-
+<a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/fengjing1%20(1).jpg)" class="imgbox" onclick="changeBg('url(https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/fengjing1%20(1).jpg)')"></a>
+<a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/fengjing2%20(1).jpg)" class="imgbox" onclick="changeBg('url(https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/fengjing2%20(1).jpg)')"></a>
 
 </div>
 {% endfolding %}
