@@ -224,10 +224,9 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/F22F23269F8928588D7ECA7339A4B762.png
-      link:
+    - img: https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/006EA57585080E9DDA6A8D5BA3E54136.jpg
       text: 微信
-    - img: https://tuchuang.voooe.cn/images/2023/01/04/20f8e49805975b8f8.webp
+    - img: https://cdn.staticaly.com/gh/442908218/imageBlog@main/imgs/62CE31151399BB01E1477883072DAF3B.jpg
       link:
       text: 支付宝
 
@@ -1084,7 +1083,7 @@ envelope_comment:
     - 或者你有什么改进的建议？
     - 又或者你有什么具体的问题需要咨询？
     - 都可以在下方评论区留言哦~~~
-  bottom: F小站站长亲自为您服务！ #仅支持单行文本
+  bottom: 家帅亲自为您服务！ #仅支持单行文本
   height: #1050px，信封划出的高度
   path: #【可选】comments 的路径名称。默认为 comments，生成的页面为 comments/index.html
   front_matter: #【可选】comments页面的 front_matter 配置
